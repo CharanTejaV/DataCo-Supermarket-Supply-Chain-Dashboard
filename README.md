@@ -12,6 +12,8 @@ This repository contains a comprehensive Power BI dashboard project designed to 
 - Company Financials
 - Customer-Centric Analysis
 - Time Series Analysis
+![image](https://github.com/CharanTejaV/DataCo-Supermarket-Supply-Chain-Dashboard/assets/143735053/c130013c-71da-493e-bae4-a69ec4c2ed01)
+
 
 ## Dashboard Pages
 ### Company Overview
