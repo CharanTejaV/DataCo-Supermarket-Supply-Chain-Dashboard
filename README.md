@@ -2,7 +2,7 @@
 The DataCo Supermarket Supply Chain Dashboard is a comprehensive Power BI project designed to illuminate the multifaceted performance of the superstore from various analytical dimensions. This project encapsulates the operational, customer-centric, and financial health of the business, providing stakeholders with a robust tool for strategic decision-making.
 
 ## Project Objective
-The primary goal of this project is to showcase DataCo Supermarket’s performance over the years, delving into key aspects of the business, including an analysis of customer behavior, order patterns, and financial health. The dashboard is structured to grant a granular perspective on the day-to-day operations and long-term trends, facilitating a deep understanding of the business dynamics at play.
+The primary goal of this project is to showcase DataCo Supermarket’s performance over the years, delving into key aspects of the business, including an analysis of customer behavior, order patterns, and financial health, all enhanced with interactive elements like bookmarks, tooltips, and page navigation for a dynamic user experience. The dashboard is structured to grant a granular perspective on the day-to-day operations and long-term trends, facilitating a deep understanding of the business dynamics at play.
 
 ## Introduction
 This repository contains a comprehensive Power BI dashboard project designed to provide a multifaceted analysis of the DataCo supermarket supply chain. The project is structured into four distinct pages, each offering unique insights:
