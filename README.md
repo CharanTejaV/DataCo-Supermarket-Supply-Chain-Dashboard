@@ -43,6 +43,8 @@ VAR DIV = SUMX(ALL('Order Dataset'),'Order Dataset'[Order Id])
 VAR SUMMARY = DIVIDE(S,DIV)*100
 RETURN SUMMARY
 ```
+### Model View
+![Model View](https://github.com/CharanTejaV/DataCo-Supermarket-Supply-Chain-Dashboard/assets/143735053/17f64da3-8377-457b-9c28-f9105a7fad0b)
 
 ### Conclusion
 This dashboard serves as a strategic tool for DataCo Supermarket, facilitating the optimization of marketing efforts, sales strategies, and overall business operations. Through careful analysis of each facet of the business, DataCo is empowered to make data-driven decisions for sustained growth and customer satisfaction.
